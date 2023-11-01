@@ -1,12 +1,24 @@
 # ttf-wps-fonts
-Respaldo de fuentes Symbol, Wingdings, Wingdings 2, Wingdings 3, MT Extra faltantes para WPS Office
+Backup fonts: 
 
-Este respaldo lo he hecho desde:
+Symbol
 
-Index of /deepin/pool/non-free/t/ttf-wps-fonts/
+Wingdings
+
+Wingdings 2
+
+Wingdings 3
+
+MT Extra 
+
+
+
+for WPS Office Linux
+
+backup from:
+
 http://packages.deepin.com/deepin/pool/non-free/t/ttf-wps-fonts/
 
-y aquí pongo un espejo:
+![](vx_images/20231031-231526 ttf-wps-fonts in packages.deepin.com.png)
 
-Index of /mirrors/deepin/packages/pool/non-free/t/ttf-wps-fonts/
-https://mirror.yandex.ru/mirrors/deepin/packages/pool/non-free/t/ttf-wps-fonts/
+**Note:** I Convert the deb file to rpm with alien
